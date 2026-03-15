@@ -1,0 +1,4 @@
+>>> import EmotionDetection
+>>> from EmotionDetection import emotion_detector
+>>> print("EmotionDetection package imported successfully")
+EmotionDetection package imported successfully
